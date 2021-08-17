@@ -15,7 +15,7 @@ Change connection string from appsetting.json file Please contact me if anything
 
 Folder Structure :
 
-ManageContacs Folder Contain a folder which having Table Structure. Table needs to be created on SQL server with db name 'ManageContacts', along with table script attached in the folder(DBQueries).Another Folder called "Contacts" contain Code files for the same. This application built in Asp.net core. which belongs a MVC design pattern , dependency injection etc. To run this application just open it with vs2019 and change the connection string as per your db details along with manageContacts db. you can run it on IISExpress or host it on a local IIS by publishing this application.
+Contacs Folder Contain a folder which having Table Structure. Table needs to be created on SQL server with db name 'ManageContacts', along with table script attached in the folder(DBQueries). This application built in Asp.net core. which belongs a MVC design pattern , dependency injection etc. To run this application just open it with vs2019 and change the connection string as per your db details along with manageContacts db. you can run it on IISExpress or host it on a local IIS by publishing this application.
 
 Thanks and Regards,
  Arihant Jain
